@@ -7,6 +7,10 @@
     
 }
 
+.navbar-custom .nav li a.active {
+    text-decoration: underline
+}
+
 .navbar-custom .nav li a:hover
 {
     background: none; 
